@@ -1,8 +1,8 @@
-<h1 align="left">Hi there! 👋 I'm a Data Scientist</h1>
+<h1 align="left">Hi there! 👋 I'm Vedant Naralkar</h1>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm passionate about turning data into actionable insights .</p>
+<p align="left">Welcome to my GitHub profile! I'm passionate about Data science and turning data into actionable insights .</p>
 
 ###
 

@@ -34,8 +34,7 @@
   <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI logo" />
-
-  
+</div>
 
 ###
 

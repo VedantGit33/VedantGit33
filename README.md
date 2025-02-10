@@ -33,8 +33,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="40" alt="Power BI logo" />
-  <img width="12" />
+  <img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" height="40" alt="Power BI logo" />
+
 </div>
 
 ###

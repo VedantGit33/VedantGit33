@@ -1,8 +1,8 @@
-<h1 align="left">Hi there! 👋 I'm Vedant Naralkar</h1>
+<h1 align="left">Hi,👋 I'm Vedant Naralkar</h1>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm passionate about Data science and turning data into actionable insights .</p>
+<p align="left">Data Science and Machine Learning enthusiast passionate about transforming data into meaningful insights and building predictive models.</p>
 
 ###
 
@@ -10,7 +10,42 @@
 
 ###
 
-<p align="left">- 💻 <b>Skills</b>: Python, Statistics, SQL,  Pandas, NumPy, Matplotlib, Machine Learning<br>- 📊 <b>Visualization Tools</b>: Power BI, Tableau  <br>- 🔍 <b>Focus Areas</b>: Data Cleaning, Exploratory Data Analysis, Predictive Modeling, and Data Visualization  <br>- 🌱 <b>Currently Exploring</b>: Advance Machine Learning algorithms,Advanced NLP techniques and deep learning frameworks.</p>
+<p align="left">
+- 💻 <b>Skills:</b> Python, SQL, Statistics, Machine Learning <br>
+- 📚 <b>Libraries:</b> Pandas, NumPy, Matplotlib, Scikit-learn <br>
+- 📊 <b>Visualization Tools:</b> Power BI, Tableau <br>
+- 🔎 <b>Focus Areas:</b> Data Cleaning, Exploratory Data Analysis, Predictive Modeling, Data Visualization <br>
+- 🌱 <b>Currently Learning:</b> Advanced Machine Learning, NLP, Deep Learning, and AI
+</p>
+
+###
+<h2 align="left">🚀 Featured Projects</h2>
+
+<p align="left">
+<b>Breast Cancer Prediction</b> <br>
+Machine Learning model using Logistic Regression achieving 97% accuracy for cancer classification.
+</p>
+
+<p align="left">
+<b>Customer Churn Prediction</b> <br>
+Predictive model to determine whether a customer will leave the company or not.
+</p>
+
+<p align="left">
+<b>Twitter Sentiment Analysis</b> <br>
+NLP-based model to classify tweets into positive, negative, and neutral sentiments.
+</p>
+
+<p align="left">
+<b>FIFA Player Clustering</b> <br>
+K-Means clustering and PCA used to segment football players based on performance attributes.
+</p>
+
+<p align="left">
+<b>Rice Leaf Disease Detection</b> <br>
+Deep learning model to detect diseases in rice plants using image classification.
+</p>
+###
 
 ###
 
@@ -19,42 +54,50 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau logo" />
   <img width="12" />
+  
   <img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" height="40" alt="Power BI logo" />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
   <img width="12" />
+  
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit logo" />
   <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="PySpark logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab logo" />
-
-
 </div>
 
 ###
 
+<h2 align="left">📈 GitHub Stats</h2>
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantGit33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantGit33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VedantGit33&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantGit33&layout=compact&theme=dracula" height="150"/>
 </div>
+
+<h2 align="left">📫 Connect With Me</h2>
+
+<p align="left">
+🔗 LinkedIn: www.linkedin.com/in/vedant-naralkar <br>
+📧 Email: vedantnaralkar10@gmail.com
+</p>
 
 ###

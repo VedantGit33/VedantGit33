@@ -45,9 +45,6 @@ K-Means clustering and PCA used to segment football players based on performance
 <b>Rice Leaf Disease Detection</b> <br>
 Deep learning model to detect diseases in rice plants using image classification.
 </p>
-###
-
-###
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 
